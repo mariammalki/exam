@@ -1,0 +1,2 @@
+{"timestamp":4712251,"category":"bounce.tracking.protection","name":"purge_action","extra":{"glean_timestamp":"1733085129576","success":"true","site_host":"youtube.com","bounce_time":"1733077575","is_dry_run":"true"}}
+{"timestamp":4712251,"category":"bounce.tracking.protection","name":"purge_action","extra":{"glean_timestamp":"1733085129576","success":"true","is_dry_run":"true","bounce_time":"1733077575","site_host":"google.tn"}}
